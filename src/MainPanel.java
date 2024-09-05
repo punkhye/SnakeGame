@@ -34,6 +34,7 @@ public class MainPanel extends JPanel {
         JLabel textScreenGifLabel = new JLabel(scaledTextIcon);
 
 
+
         //bg color
         String colorBackground = "#636940";
         String buttonColor = "#ADBF97";
